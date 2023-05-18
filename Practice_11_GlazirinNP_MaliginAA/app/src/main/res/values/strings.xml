@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice_11_GlazirinNP_MaliginAA</string>
+
+    <string name="result">Результат</string>
+
+    <string name="GoRacing">GoRacing</string>
+
+    <string name="player1">Ехать</string>
+    <string name="player2">Ехать</string>
+    <string name="start">Старт</string>
+</resources>
